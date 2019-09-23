@@ -2,7 +2,7 @@
 
 the 3th game trying with Phaser 3
 
-![]("assets/ezgif_vectorial_numbers.gif")
+![](assets/ezgif_vectorial_numbers.gif)
 
 
 
