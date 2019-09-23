@@ -17,7 +17,7 @@ the 3th game trying with Phaser 3
 `spritesheet`
 
 
-##Resized sprites with the real ratios in dynamic Canvas sizes:
+### Resized sprites with the real ratios in dynamic Canvas sizes:
 
 
 
@@ -35,4 +35,4 @@ the 3th game trying with Phaser 3
         with this ratio:
         `sprite.setScale(this.__sprite_w_scale, this.__sprite_h_scale);`
 
-
+## [Demo](https://html5.ozguruygulama.com/vectorial_numbers/index.html "Demo")
