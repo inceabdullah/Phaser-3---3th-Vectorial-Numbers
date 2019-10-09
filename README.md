@@ -36,5 +36,9 @@ the 3th game trying with Phaser 3
         
         with this ratio:
         `sprite.setScale(this.__sprite_w_scale, this.__sprite_h_scale);`
+	
+	
+## [Facebook instant games](https://apps.facebook.com/480683482787818 "Facebook instant games")
+
 
 ## [Demo](https://html5.ozguruygulama.com/vectorial_numbers/index.html "Demo")
